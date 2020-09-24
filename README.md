@@ -38,7 +38,7 @@ You need to create a ~~complete ecommerce solution~~ simple responsive product l
  - [ ] A super simple menu that slides from the side of the user's screen
  - [ ] A cart view that slides from the other side of the screen and show which products the user
   picked from the listing
- - [ ] A simple backend service that manages the user's cart
+ - [ ] A simple backend service made in **PHP** that manages the user's cart
   
 You won't create any code related to checkout or payment, which means that the "Proceed to checkout" 
 button on the frontend shouldn't do anything.
